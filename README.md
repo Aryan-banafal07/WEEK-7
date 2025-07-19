@@ -40,18 +40,10 @@ This project demonstrates how to deploy a trained machine learning model using *
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 
----
 
-## 📦 Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/iris-streamlit-app.git
-cd iris-streamlit-app
+<img width="1851" height="939" alt="image" src="https://github.com/user-attachments/assets/7d34db06-3a5a-4ca3-8772-5390081d0802" />
 
 
+<img width="1859" height="938" alt="image" src="https://github.com/user-attachments/assets/215a4218-d6f4-4ecd-83da-8ad68e47450f" />
 
 
-<img width="1851" height="939" alt="image" src="https://github.com/user-attachments/assets/0178fd36-73f4-4975-adfe-9b9da93f1686" />
-
-<img width="1859" height="938" alt="image" src="https://github.com/user-attachments/assets/3b62819d-43d4-4ead-acea-12da90c16c70" />
